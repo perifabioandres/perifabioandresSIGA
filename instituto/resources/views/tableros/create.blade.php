@@ -1,0 +1,19 @@
+<table>
+	<tr>
+		<td>Mes</td>
+		<td>Cuota</td>
+	</tr>
+	<tr>
+		<td>Enero</td>
+		<td>1000</td>
+	</tr>
+	<tr>
+		<td>Febrero</td>
+		<td>1000</td>
+	</tr>
+	<tr>
+		<td>Marzo</td>
+		<td>1000</td>
+	</tr>
+
+</table>
